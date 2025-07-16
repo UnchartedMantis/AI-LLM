@@ -1,6 +1,5 @@
-# AI-
-
 🧠 Reddit User Persona Generator
+
 This project analyzes a Reddit user's public posts and comments to generate a detailed User Persona — including motivations, interests, frustrations, and behavioral traits — and cites specific posts/comments used to infer each trait.
 
 🚀 Features
