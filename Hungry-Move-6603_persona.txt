@@ -1,0 +1,19 @@
+Name: Placeholder
+Age: ~31
+Occupation: Freelance Illustrator
+Location: Not stated
+
+Motivations:
+- Wants to manage time better [1]
+- Interested in healthy eating [2]
+
+Behaviors & Habits:
+- Uses Pomodoro for productivity [1]
+- Seeks healthy budget meals [2]
+
+Frustrations:
+- Balancing work and diet [2]
+
+Goals & Needs:
+- Effective time management [1]
+- Affordable healthy lifestyle [2]

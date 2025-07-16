@@ -1,0 +1,18 @@
+Name: Placeholder
+Age: ~29
+Occupation: Possibly in wellness or fitness field
+Location: Not stated
+
+Motivations:
+- Wants to improve mental health [1]
+- Interested in physical wellness [2]
+
+Behaviors & Habits:
+- Practices daily mindfulness [1]
+- Runs daily using C25K [2]
+
+Frustrations:
+- May struggle with anxiety [1]
+
+Goals & Needs:
+- Continue improving mental and physical health [1][2]
